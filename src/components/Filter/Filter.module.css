@@ -1,0 +1,14 @@
+
+.label {
+    font-size: 12px;
+    font-weight: 600;
+    
+}
+
+.input {
+    width: 175px;
+    margin-left: 10px;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-shadow: 2px 2px 10px rgba(186, 180, 180, 0.48);
+}
